@@ -5,5 +5,5 @@
 // }
 
 export default function handler(res: any, req?: any) {
-  res.status(200).json({ name: "John Doe" });
+  res.status(200).json({ name: "John Deer" });
 }
